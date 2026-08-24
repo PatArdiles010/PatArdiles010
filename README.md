@@ -1,4 +1,5 @@
-# [![Patricio Ardiles](https://img.shields.io/badge/Patricio%20Ardiles-blue?style=flat)](https://www.linkedin.com/in/patricio-ardiles/) 's IT and Cybersecurity Project Portfolio 🔐
+# Patricio Ardiles's IT and Cybersecurity Project Portfolio 🔐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-ardiles/)
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
